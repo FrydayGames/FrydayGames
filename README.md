@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a beginner game developer and I'm here to expand my skills in order to be able to be collaborate with other devs.
+I'm a beginner game developer and I'm here to expand my skills in order to collaborate with other devs.
 
 **Really excited to be here!**
 
